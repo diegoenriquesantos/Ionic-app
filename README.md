@@ -4,7 +4,7 @@ Esta aplicación fue utilizada en la presentación que se realizó en Abril de 2
 
 Esta aplicación fue desarrollada por Agustin Haller https://github.com/agustinhaller y Dayana Jabif https://github.com/djabif
 
-El framework con el cual fue construída es Ionic. Basado en AngularJS, SASS (Syntactically Awesome Style Sheets que en castellano viene a ser Hojas de estilos sintácticamente increíbles)
+El framework con el cual fue construída es Ionic. Basado en AngularJS y SASS (Syntactically Awesome Style Sheets que en castellano viene a ser Hojas de estilos sintácticamente increíbles)
 
 El deploy de **_Ionic-app_** fue realizado en **Cloud9** (https://c9.io)
 
@@ -17,8 +17,8 @@ El deploy de **_Ionic-app_** fue realizado en **Cloud9** (https://c9.io)
 ### Acceder al path de la aplicación Ionic
 'cd Ionic-app'
 
-### Instala npm y sus paquetes
+### Instalar npm y sus paquetes
 'npm install'
 
-### Inicia la aplicación Ionic
+### Iniciar la aplicación Ionic
 'ionic serve -p $PORT'
