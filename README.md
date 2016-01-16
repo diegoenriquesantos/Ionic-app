@@ -1,5 +1,6 @@
-# JSConfUYc
+# Ionic-app
 
+Esta aplicación fue utilizada en la presentación que se realizó en la presentación que se realizó en Abril 2015 https://github.com/startapplabs/starting-with-ionic 
 In this workshop, we are going to go through the process of building a hybrid mobile app using **_Ionic Framework_**.
 This repo will serve as a guide and in this `README.md`, you can find all the steps and instructions needed to build the app.
 
