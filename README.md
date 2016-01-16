@@ -34,6 +34,7 @@ Error: `libsass` bindings not found. Try reinstalling `node-sass`?
 Ejecutar las siguientes lineas de comando y luego volver a iniciar la aplicación:
 
 'npm uninstall --save-dev gulp-sass'
+
 'npm install --save-dev gulp-sass@'
 
 
