@@ -21,7 +21,7 @@ El deploy de **_Ionic-app_** fue realizado en **Cloud9** (https://c9.io)
 'npm install'
 
 ### Iniciar la aplicación Ionic
-'ionic serve -p $PORT'
+'ionic serve -p $PORT --nolivereload'
 
 Si al iniciar la aplicación se produce el error siguiente:
 
