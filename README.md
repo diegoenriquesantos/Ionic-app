@@ -22,3 +22,19 @@ El deploy de **_Ionic-app_** fue realizado en **Cloud9** (https://c9.io)
 
 ### Iniciar la aplicación Ionic
 'ionic serve -p $PORT'
+
+Si al iniciar la aplicación se produce el error siguiente:
+
+ionic $ /home/ubuntu/workspace/Ionic-app/node_modules/node-sass/lib/index.js:22
+    throw new Error('`libsass` bindings not found. Try reinstalling `node-sass`?');
+    ^
+
+Error: `libsass` bindings not found. Try reinstalling `node-sass`?
+
+Ejecutar las siguientes lineas de comando y luego volver a iniciar la aplicación:
+
+'npm uninstall --save-dev gulp-sass'
+'npm install --save-dev gulp-sass@'
+
+
+
